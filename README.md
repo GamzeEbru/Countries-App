@@ -9,7 +9,7 @@ Added filtering feature. You can filter countries by region. You can download al
 
 [![](https://github.com/GamzeEbru/Countries-App/blob/main/public/Photo/Countriesresponsive.gif)
 
-###Images
+### Images
 ####  Homepage
 [![](https://github.com/GamzeEbru/Countries-App/blob/main/public/Photo/6.PNG)](https://github.com/GamzeEbru/Countries-App/blob/main/public/Photo/6.PNG)
 #### Use Filter - Americas Region
